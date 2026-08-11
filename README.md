@@ -1,6 +1,7 @@
 Olá! Me chamo Vitor Dantas
-- 🔭 Atualmente estou trabalhando como uber
+- 🔭 Graduando em Ciências e Tecnologia
 - 🌱 Estou estudando Python
+- 🫀 Procurando sempre melhorar
 
 <div>
   <a href = "https://https://github.com/CoDantasde">
