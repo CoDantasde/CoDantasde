@@ -1,7 +1,6 @@
 Olá! Me chamo Vitor Dantas
 - 🔭 Graduando em Ciências e Tecnologia
-- 🌱 Estou estudando Python
-- 🫀 Procurando sempre melhorar
+- 🤖 Python | SQL | Git e Github 
 
 <div>
   <a href = "https://https://github.com/CoDantasde">
